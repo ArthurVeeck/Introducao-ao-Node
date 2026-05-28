@@ -1,0 +1,13 @@
+{
+  "name": "desafiobonus",
+  "version": "1.0.0",
+  "description": "Mini site Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Arthur da Silva Veeck",
+  "license": "ISC",
+  "type": "commonjs"
+}
